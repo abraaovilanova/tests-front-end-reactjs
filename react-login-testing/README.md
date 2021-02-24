@@ -6,3 +6,8 @@ This repository is based on the article "[Como criar testes no front-end em Reac
 * Jest
 * Enzyme
 * Enzyme-to-json
+
+## Creating the project
+```bash
+npx create-react-app <my-app>
+```
